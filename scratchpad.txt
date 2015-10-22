@@ -1,0 +1,11 @@
+We have minds and the concepts needed exist in plenty of good resources. What is
+needed is learning abstractions, tools to solve the problem of moving those
+concepts from resources into memory.
+
+a set of effective learning strategies
+
++ spaced repitition
++ interleaving of topics and contrasted comparison
++ retreival practice
++ elaborative interrogation
++ self-explanation
